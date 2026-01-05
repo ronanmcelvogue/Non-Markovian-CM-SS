@@ -4,7 +4,7 @@ authors:
   - family-names: McElvogue
     given-names: Ronan
     orcid: https://orcid.org/0009-0003-7217-0703
-title: "My Research Software"
+title: "NM-CM-SS Code"
 version: 1.0.0
 date-released: 2026-01-05
 url: "https://github.com/ronanmcelvogue/Non-Markovian-CM-SS"
